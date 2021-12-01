@@ -7,10 +7,10 @@ import re
 
 from textblob import TextBlob
 
-consumer_key = 'HdNSlIGr6jGZ9LYSqyZwKAAg9'
-consumer_secret = 'bLCL2VjhD9BdVzYLTIEwWh1cI1GtKZRengYo4wwMIteGFlRjIc'
-access_token = '758564236708773890-mrGuoqx7qlH1F7nFomZvlmx3uy8U5cQ'
-access_token_secret = 'gRyl3HtDVPpLqRRc0UKWZXb7AkHIJM3OarzkFrpwB1Fob' 
+consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 class TwitterClient(object):
     def __init__(self):  
